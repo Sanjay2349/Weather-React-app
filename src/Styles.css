@@ -1,0 +1,55 @@
+.box {
+  background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+}
+.weather-popup .mapboxgl-popup-content {
+  background-color: #ffffff; /* Background color */
+  border-radius: 8px; /* Rounded corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Shadow for depth */
+  padding: 15px; /* Padding inside the popup */
+  font-family: Arial, sans-serif; /* Font style */
+  width: 200px; /* Width of the popup */
+}
+
+/* Header style */
+.weather-popup .popup-title {
+  color: #333; /* Text color */
+  font-size: 18px; /* Font size */
+  margin-bottom: 10px; /* Space below the header */
+}
+
+/* Location text style */
+.weather-popup .popup-location {
+  color: #555; /* Text color */
+  font-size: 14px; /* Font size */
+  margin: 5px 0; /* Space around */
+}
+
+/* Temperature text style */
+.weather-popup .popup-temp {
+  color: #ff4500; /* Text color */
+  font-size: 14px; /* Font size */
+  margin: 5px 0; /* Space around */
+}
+
+/* Description text style */
+.weather-popup .popup-description {
+  color: #888; /* Text color */
+  font-size: 12px; /* Font size */
+  margin: 5px 0; /* Space around */
+}
+
+/* Additional styles */
+.weather-popup .mapboxgl-popup-tip {
+  border-top-color: #ffffff; /* Arrow color matching the popup background */
+}
+
+@media (min-width: 300px) and (max-width: 414px)  {
+  .cont {
+    background-color: black;
+  }
+  .box {
+    flex-direction: column;
+    height: 300vh;
+    width: 100vw;
+  }
+}
