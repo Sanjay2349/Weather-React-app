@@ -30,13 +30,13 @@ A simple weather dashboard web app built with React.js, utilizing the **Mapbox A
 
 ## ScreenShots
 -Dashboard
-![Dashboard](https://github.com/Sanjay2349/Weather-Route-App/blob/main/assets/screenshot-1.png)
+![Dashboard](https://github.com/Sanjay2349/Weather-React-app/blob/main/assets/screenshot-1.png)
 
 -Weather
-![Dashboard](https://github.com/Sanjay2349/Weather-Route-App/blob/main/assets/screeshot-2.png)
+![Dashboard](https://github.com/Sanjay2349/Weather-Route-app/blob/main/assets/screeshot-2.png)
 
 -Route Analysis
-![Dashboard](https://github.com/Sanjay2349/Weather-Route-App/blob/main/assets/screenshot-3.png)
+![Dashboard](https://github.com/Sanjay2349/Weather-Route-app/blob/main/assets/screenshot-3.png)
 
 ## Installation
 
